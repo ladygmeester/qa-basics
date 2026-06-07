@@ -1,2 +1,2 @@
-# qa-basics
-Mijn eerste QA-testcases en bugrapporten
+Dit zijn mijn eerste testcases voor een loginpagina
+
