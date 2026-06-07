@@ -1,5 +1,5 @@
 # QA Basics
 Dit is mijn verzameling van QA-oefeningen:
-- Testcases voor een loginpagina
+- Testcases 
 - Bugrapporten
-- Eerste QA-structuren
+- QA-oefeningen
